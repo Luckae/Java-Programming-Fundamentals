@@ -9,8 +9,9 @@ package javaapplication1;
  *
  * @author mac
  */
+ 
 public class JavaApplication1 {
-
+ 
     /**
      * @param args the command line arguments
      */
@@ -39,6 +40,7 @@ public class JavaApplication1 {
         
         int age = 23;
         
+        
        // System.out.println(bt);
         System.out.println(a);
         
@@ -59,5 +61,7 @@ public class JavaApplication1 {
         
         
     }
+    
+   
     
 }
